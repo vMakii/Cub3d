@@ -1,0 +1,26 @@
+/* XPM */
+static char *floor1[] = {
+/* columns rows colors chars-per-pixel */
+"12 12 8 1 ",
+"  c gray27",
+". c gray31",
+"X c #585858",
+"o c gray39",
+"O c gray43",
+"+ c #767676",
+"@ c #797A87",
+"# c #838383",
+/* pixels */
+"+XoOOXooooXX",
+"+X+OoXoOOoo ",
+"OoOoX++OooXX",
+"oXXXoOOoXOoO",
+"X.ooooXO+@++",
+"o.XOOoo++++o",
+"+ooXooX#+++X",
+"OOooXO@++++X",
+"oooXXo++OOOo",
+"XXO@XoOOoooX",
+"oo.XXooooXX.",
+"XX.XXoOOooo."
+};

@@ -1,0 +1,18 @@
+NO ./assets/xpm/wall/temple_north.xpm
+SO ./assets/xpm/wall/temple_south.xpm
+WE ./assets/xpm/wall/temple_west.xpm
+EA ./assets/xpm/wall/temple_east.xpm
+
+F 120,120,120
+C 0,0,0
+                            111111111111111
+                           1000FF00000000001
+                           1F101010101F10101111
+                           10L0L0L0L0L0L0L01F0L1
+                           10C00000C00000C0D00T1
+111111111111111111         10L0L0L0L0L0LFL01F0L1
+1L0L0LFL0LFLFL0L0L11111111 1010101F101010101111
+1E000C00000C00000CD00M00001100000FF00F000001
+1LFL0L0LFLFL0L0LFL1111111011D11111111111111
+111111111111111111      100001
+                         1111

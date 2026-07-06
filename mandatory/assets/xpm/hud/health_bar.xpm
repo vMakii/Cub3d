@@ -1,0 +1,21 @@
+/* XPM */
+static char *health_bar[] = {
+/* columns rows colors chars-per-pixel */
+"32 4 11 1 ",
+"  c #6E2812",
+". c #801F14",
+"X c #901919",
+"o c #97221C",
+"O c #9F2B1F",
+"+ c #A63522",
+"@ c #AD4025",
+"# c #BB562D",
+"$ c #CA6B34",
+"% c #E08D40",
+"& c #FDAD5F",
+/* pixels */
+"....XXXXXXXXooooOoO+++@####$%%&&",
+" ...XXXXXXXXXooooo+++@@@##$$%%&&",
+" ..XXXXXXXXXoooooOO+@+@@##$$$%%&",
+" .....XXXXooooooOOO+++@@@#$$$%%%"
+};
